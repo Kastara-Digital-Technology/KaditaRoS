@@ -6,6 +6,12 @@
 <br/>
 
 [English](README.md) | [Bahasa Indonesia](README.ID.md)
+
+<div align="center">
+
+    Selamat Datang di KADITA RoS: Framework untuk Kendali Robot Operating System
+
+</div><br/>
 # Kadita RoS
 Sebuah eksperimen program untuk mengendalikan robot
 
