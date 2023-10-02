@@ -5,10 +5,11 @@
 
 [English](README.md) | [Bahasa Indonesia](README.ID.md)
 # Kadita RoS
-An experimental code to control robots.
+Sebuah eksperimen program untuk mengendalikan robot
+
 <br/>
 
-COMING SOON !
+SEGERA HADIR !
 
 <br>
 
